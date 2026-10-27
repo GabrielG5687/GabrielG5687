@@ -100,20 +100,6 @@ Sistema voltado à análise de documentos, aplicação de regras de validação,
 
 ---
 
-## 📈 Contribution Activity
-
-<div align="center">
-
-### ⚡ Consistência, código e evolução
-
-Acompanhe minha jornada de desenvolvimento, projetos e contribuições no GitHub.
-
-[![GitHub Activity](https://img.shields.io/badge/Ver_meu_histórico_de_contribuições-58A6FF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/GabrielG5687?tab=overview&from=2026-01-01&to=2026-12-31)
-
-</div>
-
----
-
 ## 💡 Beyond the Code
 
 Acredito que desenvolver software envolve muito mais do que conhecer linguagens e frameworks.
