@@ -26,18 +26,38 @@ Meu foco está no desenvolvimento de aplicações web, arquitetura de sistemas, 
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielG5687&layout=compact&theme=github_dark&hide_border=true)
 
-### 🏆 GitHub Achievements
+---
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=GabrielG5687&theme=algolia&no-frame=true&row=1&column=6)
+<div align="center">
 
-### 🐍 Minhas contribuições
+### ⚡ Developer Activity
 
-![Snake animation](https://raw.githubusercontent.com/GabrielG5687/GabrielG5687/output/github-contribution-grid-snake-dark.svg)
+**Código, evolução e impacto.**
 
-### 💡 Minha filosofia
+Cada contribuição faz parte de algo maior.
 
-> Código bom não é apenas aquele que funciona. É aquele que resolve problemas, evolui com o tempo e proporciona uma excelente experiência.
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielG5687&layout=compact&theme=github_dark&hide_border=true&langs_count=8" alt="Linguagens mais utilizadas" />
+
+### 📈 Minha jornada no GitHub
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=GabrielG5687&theme=github-compact&hide_border=true&area=true" alt="Gráfico de atividades" width="95%" />
+
+### 💻 Building in Public
+
+Explorando novas ideias, desenvolvendo soluções e compartilhando minha evolução através do código.
+
+**Aprendendo. Construindo. Evoluindo.**
 
 ---
 
-**Construindo, aprendendo e evoluindo todos os dias. 🚀**
+### 🤝 Vamos nos conectar?
+
+[![GitHub](https://img.shields.io/badge/GitHub-GabrielG5687-181717?style=for-the-badge&logo=github)](https://github.com/GabrielG5687)
+
+---
+
+**Always learning. Always building. 🚀**
+
+<sub>Made with ☕ and lots of TypeScript</sub>
+
+</div>
