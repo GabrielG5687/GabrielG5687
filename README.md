@@ -104,7 +104,11 @@ Sistema voltado à análise de documentos, aplicação de regras de validação,
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=GabrielG5687&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF&area=true&area_color=1F6FEB&hide_border=true" width="100%" alt="Gráfico de contribuições" />
+### ⚡ Consistência, código e evolução
+
+Acompanhe minha jornada de desenvolvimento, projetos e contribuições no GitHub.
+
+[![GitHub Activity](https://img.shields.io/badge/Ver_meu_histórico_de_contribuições-58A6FF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/GabrielG5687?tab=overview&from=2026-01-01&to=2026-12-31)
 
 </div>
 
